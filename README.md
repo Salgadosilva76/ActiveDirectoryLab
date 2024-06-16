@@ -108,14 +108,8 @@ Rename The Computer and Join it to the DC Domain:  <br/>
 <img src="https://i.imgur.com/uq9JyqG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-ERASEEEEE:  <br/>
-<img src="https://i.imgur.com/uq9JyqG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-ERASEEEEEE:  <br/>
-<img src="https://i.imgur.com/uq9JyqG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
+~ THANK YOU FOR READING ~
 
 
 
